@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/den53/github-notetaker/issues"
   },
-  "homepage": "https://github.com/den53/github-notetaker#readme"
+  "homepage": "https://github.com/den53/github-notetaker#readme",
+  "dependencies": {
+    "react": "^15.0.1",
+    "react-dom": "^15.0.1"
+  }
 }
