@@ -1,0 +1,25 @@
+{
+  "name": "github-notetaker",
+  "version": "0.0.1",
+  "description": "A github notetaker written with react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/den53/github-notetaker.git"
+  },
+  "keywords": [
+    "react",
+    "github",
+    "notetaker",
+    "tutorial"
+  ],
+  "author": "Dennis A. Seidel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/den53/github-notetaker/issues"
+  },
+  "homepage": "https://github.com/den53/github-notetaker#readme"
+}
